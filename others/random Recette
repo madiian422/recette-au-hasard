@@ -1,0 +1,40 @@
+random Recette
+
+- faire les vues 
+- créer une base de donnée
+- definir les entitées de mon programme
+
+fonctionnalité : 
+
+peut etre coté visiteur : juste voir la page d'accueil
+
+coté User
+
+- systeme d'inscription et d'authentification
+- faire des recherches de recette de cuisine sur la plateforme
+- commander les ingrédients pour les recettes
+- un panier pour l'utilisateur avant de valider la commande
+- systeme de random
+
+coté admin : 
+
+- lister les recettes 
+- ajouter les recettes
+- effacer les recettes
+- modifier les recettes
+- ajouter un champs liste déroulante? pour la selection d'un pays? pour mieux cibler la demande
+
+
+autres : 
+
+- le systeme de paiement
+- la documentation
+
+
+technologie souhaitée : 
+
+- bootstrap
+- html & css
+- php
+- javascript / jquery
+- ajax
